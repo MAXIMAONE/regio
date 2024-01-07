@@ -1,7 +1,6 @@
 
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id=" AMC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png"
 http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM2i0eq_KZoGcfurZuGsZhO1tOvgzA5gYmNM98wUg=s900-c-k-c0x00ffffff-no-rj"
@@ -52,5 +51,33 @@ http://45.166.92.22:58001/play/a013/index.m3u8
 http://45.166.92.22:58001/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id=" WARNER HD 2" tvg-logo="https://cms.cignal.tv/Upload/Images/Warner-TV.jpg"
 http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 tvg-id=" A&E" tvg-logo="https://seeklogo.com/images/A/ae-logo-E634AC35E3-seeklogo.com.png?v=637"
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id=" Animal Planet" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png"
+http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="AZ CORAZON" tvg-logo="https://jetinternet.es/wp-content/uploads/2022/03/canales-azcorazon.png"
+http://45.166.92.22:58001/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp"
+http://45.166.92.22:58001/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="CARTOON NET" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg"
+#EXTINF:-1 tvg-id=" DISCOVERY THEATHER" tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/theaterhd-uai-258x166.png"
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"
+http://45.166.92.22:58001/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="SONY NOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png"
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="HBO + PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png"
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="H2" tvg-logo="https://www.pngitem.com/pimgs/m/530-5308413_history-channel-2-logo-hd-png-download.png"
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://i.pinimg.com/736x/b7/3e/23/b73e23e220403513f34bb6689172a744.jpg"
+http://45.166.92.22:58001/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="Pasiones HD" tvg-logo="https://res.cloudinary.com/pipecodes-com/image/upload/fl_lossy/v1619787450/gwjynxxetx3zidpklzvj.webp"
+http://45.166.92.22:58001/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="https://i.pinimg.com/originals/e9/df/03/e9df03901eeb0c234667e0748fcfa756.jpg"
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:-1 tvg-id=" Univision HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png"
+http://45.166.92.22:58001/play/a01r/index.m3u8
 
-0016jueves
+
+FULL
