@@ -1,8 +1,9 @@
 
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id=" AMC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png"
-http://45.166.92.22:58001/play/a00q/index.m3u8
+http://190.149.66.90:4000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM2i0eq_KZoGcfurZuGsZhO1tOvgzA5gYmNM98wUg=s900-c-k-c0x00ffffff-no-rj"
 http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="CINE CANAL 2" tvg-logo="https://i1.sndcdn.com/artworks-000198115180-wj5dj4-t500x500.jpg"
@@ -19,10 +20,6 @@ http://45.166.92.22:58001/play/a01s/index.m3u8
 http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTINF:-1 tvg-id=" E! Entertairment HD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/e-tv-1-logo.png"
 http://45.166.92.22:58001/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
-http://45.166.92.22:58001/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"
-http://45.166.92.22:58001/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="FOX SPORT 3" tvg-logo="https://www.newslinereport.com/online/nota_la-frmula-1-estar-en-la-pantalla-de-fox-sports-3.jpg"
 http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://i.pinimg.com/originals/b8/ed/e8/b8ede872f580ca6021c4b10f7894c78d.jpg"
@@ -62,8 +59,6 @@ http://45.166.92.22:58001/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON NET" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg"
 #EXTINF:-1 tvg-id=" DISCOVERY THEATHER" tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/theaterhd-uai-258x166.png"
 http://45.166.92.22:58001/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"
-http://45.166.92.22:58001/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="SONY NOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png"
 http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="HBO + PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png"
@@ -80,4 +75,5 @@ http://45.166.92.22:58001/play/a048/index.m3u8
 http://45.166.92.22:58001/play/a01r/index.m3u8
 
 
-FULL
+HOY
+
