@@ -57,6 +57,7 @@ http://45.166.92.22:58001/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp"
 http://45.166.92.22:58001/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON NET" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg"
+http://190.149.66.90:4000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id=" DISCOVERY THEATHER" tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/theaterhd-uai-258x166.png"
 http://45.166.92.22:58001/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="SONY NOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png"
@@ -79,4 +80,4 @@ http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=28
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=218
 
 
-HOY  hh
+
