@@ -74,8 +74,7 @@ http://45.166.92.22:58001/play/a01q/index.m3u8
 http://45.166.92.22:58001/play/a048/index.m3u8
 #EXTINF:-1 tvg-id=" Univision HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png"
 http://45.166.92.22:58001/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png"
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
 
 
 
