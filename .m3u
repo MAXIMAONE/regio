@@ -1,9 +1,6 @@
-
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id=" AMC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png"
-http://190.149.66.90:4000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM2i0eq_KZoGcfurZuGsZhO1tOvgzA5gYmNM98wUg=s900-c-k-c0x00ffffff-no-rj"
 http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="CINE CANAL 2" tvg-logo="https://i1.sndcdn.com/artworks-000198115180-wj5dj4-t500x500.jpg"
@@ -26,29 +23,18 @@ http://45.166.92.22:58001/play/a00s/index.m3u8
 http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="History Channel " tvg-logo="https://www.sintelevisionhd.com/img/history.png"
 http://45.166.92.22:58001/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="ONCE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png"
-http://181.78.105.146:2000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg"
-http://190.149.66.90:4000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-id="NATIONAL GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
-http://190.149.66.90:4000/play/a00z/index.m3u8
-http://190.149.66.90:4000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="Paramount Horror ©" tvg-logo="https://www.paramount.com/themes/custom/viacom/viacom.png"
 http://45.166.92.22:58001/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="SONY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"
 http://45.166.92.22:58001/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="SONY MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png"
-http://190.149.66.90:4000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="SONY TV" tvg-logo="https://plataformas.news/online/nota_spt-renueva-su-marca-a-sony-channel.jpg"
 http://181.78.105.146:2000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png"
 http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png"
 http://45.166.92.22:58001/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://universalplus.com/assets/logo.jpg"
-http://190.149.66.90:4000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-id="UNIVERSAL +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png"
-http://190.149.66.90:4000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://gkpb.com.br/wp-content/uploads/2018/08/novo-logo-canal-universal-tv-colorido-fundo-branco.jpg"
+http://45.160.15.130:2909/play/088
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png"
 http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"
@@ -87,15 +73,17 @@ http://45.166.92.22:58001/play/a048/index.m3u8
 http://45.166.92.22:58001/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
 http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id=" ESPN STAR+" tvg-logo="https://pbs.twimg.com/profile_images/1485272955990990848/yjOHx0PG_400x400.jpg"
+http://45.160.15.130:2909/play/212
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"
-http://190.149.66.90:4000/play/a03b/index.m3u8
+http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="ESPN-" tvg-logo="https://i.pinimg.com/736x/b3/69/c7/b369c7454adc03bfea8c6b2f4268be5a.jpg"
 http://190.149.66.90:4000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"
-http://190.149.66.90:4000/play/a04u/index.m3u8
+http://45.160.15.130:2909/play/216
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png"
-http://190.149.66.90:4000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=""
 
-MARZO 
+MARZO 29
 
 
