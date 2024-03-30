@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id=" A&E" tvg-logo="https://seeklogo.com/images/A/ae-logo-E634AC35E3-seeklogo.com.png?v=637"
+http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM2i0eq_KZoGcfurZuGsZhO1tOvgzA5gYmNM98wUg=s900-c-k-c0x00ffffff-no-rj"
 http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="CINE CANAL 2" tvg-logo="https://i1.sndcdn.com/artworks-000198115180-wj5dj4-t500x500.jpg"
@@ -82,7 +83,9 @@ http://190.149.66.90:4000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"
 http://45.160.15.130:2909/play/216
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png"
-#EXTINF:-1 tvg-id="" tvg-logo=""
+http://45.166.92.22:58001/play/a01j/index.m3u8
+
+
 
 MARZO 29
 
