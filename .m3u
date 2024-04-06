@@ -54,8 +54,8 @@ http://45.166.92.22:58001/play/a00m/index.m3u8
 http://45.166.92.22:58001/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp"
 http://45.166.92.22:58001/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="CARTOON NET" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg"
-http://190.149.66.90:4000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="CARTOON USA" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg"
+http://45.166.92.22:58001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id=" DISCOVERY THEATHER" tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/theaterhd-uai-258x166.png"
 http://45.166.92.22:58001/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="SONY NOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png"
@@ -78,8 +78,10 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 http://45.160.15.130:2909/play/212
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"
 http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2HD" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg"
+http://45.160.15.130:2909/play/214
 #EXTINF:-1 tvg-id="ESPN-" tvg-logo="https://i.pinimg.com/736x/b3/69/c7/b369c7454adc03bfea8c6b2f4268be5a.jpg"
-http://190.149.66.90:4000/play/a03a/index.m3u8
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a058&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"
 http://45.160.15.130:2909/play/216
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png"
@@ -87,6 +89,6 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 
 
 
-MARZO 29
+ABRIL 05
 
 
