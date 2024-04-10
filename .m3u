@@ -79,7 +79,7 @@ http://45.160.15.130:2909/play/212
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"
 http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2HD" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg"
-http://45.160.15.130:2909/play/214
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a07t&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN-" tvg-logo="https://i.pinimg.com/736x/b3/69/c7/b369c7454adc03bfea8c6b2f4268be5a.jpg"
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a058&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"
@@ -89,6 +89,6 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 
 
 
-ABRIL 9
+ABRIL 9//
 
 
