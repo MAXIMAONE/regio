@@ -83,12 +83,12 @@ http://45.160.15.130:2909/play/214
 #EXTINF:-1 tvg-id="ESPN-" tvg-logo="https://i.pinimg.com/736x/b3/69/c7/b369c7454adc03bfea8c6b2f4268be5a.jpg"
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a058&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png"
-http://45.160.15.130:2909/play/216
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a07s&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png"
 http://45.166.92.22:58001/play/a01j/index.m3u8
 
 
 
-
+ABRIL 9
 
 
