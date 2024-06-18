@@ -22,8 +22,6 @@ http://45.166.92.22:58001/play/a03s/index.m3u8
 http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"
 http://45.166.92.22:58001/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="SONY TV" tvg-logo="https://plataformas.news/online/nota_spt-renueva-su-marca-a-sony-channel.jpg"
-http://181.78.105.146:2000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png"
 http://45.166.92.22:58001/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png"
@@ -62,10 +60,6 @@ http://45.166.92.22:58001/play/a01q/index.m3u8
 http://45.166.92.22:58001/play/a048/index.m3u8
 #EXTINF:-1 tvg-id=" Univision HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png"
 http://45.166.92.22:58001/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
-http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png"
-http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png"
 http://45.166.92.22:58001/play/a01j/index.m3u8
 
