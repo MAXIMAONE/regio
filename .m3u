@@ -1,13 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
+http://45.160.15.130:2909/play/151
 #EXTINF:-1 tvg-id=" A&E" tvg-logo="https://seeklogo.com/images/A/ae-logo-E634AC35E3-seeklogo.com.png?v=637"
 http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM2i0eq_KZoGcfurZuGsZhO1tOvgzA5gYmNM98wUg=s900-c-k-c0x00ffffff-no-rj"
 http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="Cine Latino" tvg-logo="https://golatinotv.com/wp-content/uploads/2021/02/cinelatino-min.png"
 http://45.166.92.22:58001/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png"
-http://45.166.92.22:58001/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://i.pinimg.com/originals/dc/47/f9/dc47f97388f9d53558c127321a6caf3a.jpg"
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png"
@@ -23,7 +23,7 @@ http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png"
 http://45.166.92.22:58001/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png"
-http://45.166.92.22:58001/play/a00k/index.m3u8
+http://45.160.15.130:2909/play/098
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png"
 http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"
@@ -62,9 +62,10 @@ http://45.166.92.22:58001/play/a048/index.m3u8
 http://45.166.92.22:58001/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png"
 http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg"
+http://45.160.15.130:2909/play/112
+#EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-e-uJ6ufe-GqDK_l0kpYVLPfq8Gb02s3Kbg&s"
+http://45.166.92.22:58001/play/a04b/index.m3u8
 
-
-
-16 JUNIO
-
+JULIO 009
 
