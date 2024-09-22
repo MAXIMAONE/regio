@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="HBO MX" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png"
-http://200.59.188.3:8000/play/a03r
+
 #EXTINF:-1 tvg-id="HBO HD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png"
 http://200.59.188.3:8000/play/a020
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg"
@@ -53,7 +52,7 @@ http://45.166.92.22:58001/play/a05q/index.m3u8
 http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"
 http://45.166.92.22:58001/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://www.tvconexion.com/img/tnt.png"
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://i0.wp.com/www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg?resize=600%2C600"
 http://45.166.92.22:58001/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="TNT SERIES 2" tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/07/TNT-series.jpg"
 http://45.166.92.22:58001/play/a01m/index.m3u8
@@ -83,16 +82,34 @@ http://45.166.92.22:58001/play/a04q/index.m3u8
 http://45.166.92.22:58001/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2019/07/SonyMovies-logo.jpg"
 http://45.166.92.22:58001/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="CINEMAX 2" tvg-logo="https://banner2.cleanpng.com/20180808/skv/097e607b3fc6cb6c49b6c38b8af8c657.webp"
+#EXTINF:-1 tvg-id="CINEMAX MX" tvg-logo="https://banner2.cleanpng.com/20180808/skv/097e607b3fc6cb6c49b6c38b8af8c657.webp"
+http://200.59.188.3:8000/play/a03s
 #EXTINF:-1 tvg-id=" Claro Cinema" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png"
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg"
+http://200.59.188.3:8000/play/a043
 #EXTINF:-1 tvg-id="Golden Premiere HD" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/goldenpremier_estandar.jpg"
 http://45.4.85.214:58001/play/a04s
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo=""
-
+#EXTINF:-1 tvg-id="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png"
+http://204.157.251.250:8001/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="Nick HD" tvg-logo="https://e7.pngegg.com/pngimages/530/716/png-clipart-nickelodeon-logo-nick-jr-nick-play-nick-com-nickelodeon-text-orange.png"
+http://204.157.251.250:8001/play/a02p/index.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://i.ytimg.com/vi/SCKn8k0sqok/maxresdefault.jpg"
+http://204.157.251.250:8001/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png"
+http://45.228.234.167:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="Golden Premiere2 HD" tvg-logo="https://i.pinimg.com/474x/98/14/44/981444c0e3383431242debf0c524bd5b.jpg"
+http://45.228.234.167:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://i.pinimg.com/474x/f6/f7/61/f6f7615950039eda8970133770c716b6.jpg"
+http://200.59.188.3:8000/play/a02d
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg"
+http://200.59.188.3:8000/play/a017
+#EXTINF:-1 tvg-id=" E! HD" tvg-logo="https://cdn.worldvectorlogo.com/logos/e-tv-1.svg"
+http://200.59.188.3:8000/play/a02h
+#EXTINF:-1 tvg-id="LAS ESTRLLAS/HD" tvg-logo="https://iconape.com/wp-content/files/xe/364491/png/364491.png"
+http://200.59.188.3:8000/play/a02z
+#EXTINF:-1 tvg-id=" MTV LIVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmldG5fhYy-TO6m5EehybKIp6Rwu2WPO1nTQ&s"
+http://200.59.188.3:8000/play/a01i
+#EXTINF:-1 tvg-id=" Nat Geo HD" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=681&h=383&crop=1"
+http://200.59.188.3:8000/play/a01v
 
 
 
