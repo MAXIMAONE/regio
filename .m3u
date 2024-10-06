@@ -155,8 +155,7 @@ http://200.59.188.3:8000/play/a06u
 http://181.78.105.146:2000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://i.ibb.co/cFrBCXs/mx-azteca-7-m.png"
 http://181.78.105.146:2000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=""
-http://181.78.105.146:2000/play/a08t/index.m3u8
+
 
 
 
