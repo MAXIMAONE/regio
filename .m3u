@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="REDBULL" tvg-logo="https://pbs.twimg.com/card_img/1840011503992492032/QnoUSI3b?format=png&name=360x360"
+#EXTINF:-1 tvg-id="REDBULL" tvg-logo="https://static.eldiario.es/clip/621f0fec-a1e6-4029-b231-1d184a823583_16-9-aspect-ratio_default_0.jpg"
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="HBO HD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png"
 http://200.59.188.3:8000/play/a020
@@ -156,7 +156,7 @@ http://181.78.105.146:2000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://i.ibb.co/cFrBCXs/mx-azteca-7-m.png"
 http://181.78.105.146:2000/play/a00i/index.m3u8
 
-
+ok22
 
 
 
