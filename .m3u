@@ -2,10 +2,6 @@
 
 #EXTINF:-1 tvg-id="REDBULL" tvg-logo="https://static.eldiario.es/clip/621f0fec-a1e6-4029-b231-1d184a823583_16-9-aspect-ratio_default_0.jpg"
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-id="HBO HD-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png"
-http://200.59.188.3:8000/play/a020
-#EXTINF:-1 tvg-id="HBO Xtreme USA" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"
-http://200.59.188.3:8000/play/a035
 #EXTINF:-1 tvg-id="HBO 2 MX" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_256.d920675.png"
 http://200.59.188.3:8000/play/a027
 #EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png"
@@ -33,12 +29,6 @@ http://200.59.188.3:8000/play/a023
 http://200.59.188.3:8000/play/a03s
 #EXTINF:-1 tvg-id=" Claro Cinema" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png"
 http://200.59.188.3:8000/play/a043
-#EXTINF:-1 tvg-id="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png"
-http://204.157.251.250:8001/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="Nick HD" tvg-logo="https://e7.pngegg.com/pngimages/530/716/png-clipart-nickelodeon-logo-nick-jr-nick-play-nick-com-nickelodeon-text-orange.png"
-http://204.157.251.250:8001/play/a02p/index.m3u8
-#EXTINF:-1 tvg-id="Golden Premiere HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png"
-http://45.4.85.214:58001/play/a04s
 #EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://i.pinimg.com/474x/f6/f7/61/f6f7615950039eda8970133770c716b6.jpg"
 http://200.59.188.3:8000/play/a02d
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg"
@@ -53,8 +43,6 @@ http://45.4.85.214:58001/play/a02s
 http://45.4.85.214:58001/play/a04l
 #EXTINF:-1 tvg-id=" Nat Geo HD" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=681&h=383&crop=1"
 http://200.59.188.3:8000/play/a01v
-#EXTINF:-1 tvg-id="UNIVERSAL REALITY HD" tvg-logo="https://i.ytimg.com/vi/va4vkM8O7P8/maxresdefault.jpg"
-http://204.157.251.250:8001/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id=" Studio Universal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s"
 http://177.93.46.163:8000/play/a00r
 #EXTINF:-1 tvg-id=" SyFy" tvg-logo="https://locosxlosjuegos.com/wp-content/uploads/2021/06/default.jpg"
@@ -79,8 +67,6 @@ http://200.59.188.3:8000/play/a0c1
 http://200.59.188.3:8000/play/a06d
 #EXTINF:-1 tvg-id="Canal RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/2560px-RCN_Televisi%C3%B3n_logo.svg.png"
 http://200.59.188.3:8000/play/a03a
-#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://pbs.twimg.com/media/GF1w9RuWIAA9T8C.jpg:large"
-http://200.59.188.3:8000/play/a01k
 #EXTINF:-1 tvg-id="Disney" tvg-logo="https://i.imgur.com/MclBXDy.png"
 http://45.4.85.214:58001/play/a03c
 #EXTINF:-1 tvg-id=" ESPN4 HD" tvg-logo="https://i.ibb.co/7KGCnFV/d21fac40-d2d4-4d52-ad5f-4a1347135bfe.jpg"
@@ -119,8 +105,7 @@ http://200.59.188.3:8000/play/a05j
 http://200.59.188.3:8000/play/a01z
 #EXTINF:-1 tvg-id=" ESPN Premium" tvg-logo="https://i.imgur.com/40SHixE.png"
 http://200.59.188.3:8000/play/a0gh
-#EXTINF:-1 tvg-id=" FX HD" tvg-logo="https://i.ibb.co/34j2BS1/fxhd.png"
-http://200.59.188.3:8000/play/a01o
+
 #EXTINF:-1 tvg-id="MTV LIVE HD" tvg-logo="https://i.imgur.com/5MA3Ljx.png"
 http://200.59.188.3:8000/play/a01i
 #EXTINF:-1 tvg-id="MUSIC TV" tvg-logo="https://www.newslinereport.com/online/nota_c-music-tv-llega-a-latinoamrica.jpg"
@@ -149,14 +134,10 @@ http://200.59.188.3:8000/play/a01n
 http://200.59.188.3:8000/play/a0fj
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HD" tvg-logo="https://imgur.com/s5Ws5Tn"
 http://200.59.188.3:8000/play/a01h
-#EXTINF:-1 tvg-id="Universal Cinema" tvg-logo="https://i.imgur.com/tmjDtZ0.png"
-http://200.59.188.3:8000/play/a06u
-#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-logo="https://i.ibb.co/SRQxnY4/images.png"
-http://181.78.105.146:2000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://i.ibb.co/cFrBCXs/mx-azteca-7-m.png"
 http://181.78.105.146:2000/play/a00i/index.m3u8
 
-ok22
+MIERCOLES 30
 
 
 
