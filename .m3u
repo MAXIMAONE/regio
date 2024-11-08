@@ -14,7 +14,6 @@ http://200.59.188.3:8000/play/a00i
 http://200.59.188.3:8000/play/a016
 #EXTINF:-1 tvg-id=" Discovery Turbo" tvg-logo="https://appnew.megainfoapp.com/files/1/DiscoveryTurbo.png"
 http://200.59.188.3:8000/play/a045
-#EXTINF:-1 tvg-id=" Sony Novelas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/channel-sony_channel-_channel_novelas-16x9_0.jpg"
 #EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://universalplus.com/assets/logo.jpg"
 http://gzytv.vip:8880/654329/rjgAbmEB7c/827
 #EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png"
@@ -35,18 +34,10 @@ http://200.59.188.3:8000/play/a02d
 http://200.59.188.3:8000/play/a017
 #EXTINF:-1 tvg-id=" E! HD" tvg-logo="https://cdn.worldvectorlogo.com/logos/e-tv-1.svg"
 http://200.59.188.3:8000/play/a02h
-#EXTINF:-1 tvg-id=" MTV HD" tvg-logo="https://i.ibb.co/nfmzSTp/MTV.png"
-http://45.4.85.214:58001/play/a04k
-#EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://i.imgur.com/IFoWfq4.png"
-http://45.4.85.214:58001/play/a02s
-#EXTINF:-1 tvg-id=" Discovery Kids" tvg-logo=https://i.imgur.com/L0e0PWQ.png""
-http://45.4.85.214:58001/play/a04l
 #EXTINF:-1 tvg-id=" Nat Geo HD" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=681&h=383&crop=1"
 http://200.59.188.3:8000/play/a01v
 #EXTINF:-1 tvg-id=" Studio Universal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s"
 http://177.93.46.163:8000/play/a00r
-#EXTINF:-1 tvg-id=" SyFy" tvg-logo="https://locosxlosjuegos.com/wp-content/uploads/2021/06/default.jpg"
-http://45.4.85.214:58001/play/a04o
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.pinimg.com/736x/70/78/5a/70785ae2994bc9bec676c940357d9ff9.jpg"
 http://177.93.46.163:8000/play/a017
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-7163B57025-seeklogo.com.png"
@@ -67,48 +58,14 @@ http://200.59.188.3:8000/play/a0c1
 http://200.59.188.3:8000/play/a06d
 #EXTINF:-1 tvg-id="Canal RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/2560px-RCN_Televisi%C3%B3n_logo.svg.png"
 http://200.59.188.3:8000/play/a03a
-#EXTINF:-1 tvg-id="Disney" tvg-logo="https://i.imgur.com/MclBXDy.png"
-http://45.4.85.214:58001/play/a03c
-#EXTINF:-1 tvg-id=" ESPN4 HD" tvg-logo="https://i.ibb.co/7KGCnFV/d21fac40-d2d4-4d52-ad5f-4a1347135bfe.jpg"
-http://45.4.85.214:58001/play/a03z
-#EXTINF:-1 tvg-id=" ESPN 5HD" tvg-logo="https://imgur.com/qkjQ40e"
-http://45.4.85.214:58001/play/a018
-#EXTINF:-1 tvg-id=" Exa TV" tvg-logo="https://imgur.com/kWstpbx"
-http://45.4.85.214:58001/play/a02o
-#EXTINF:-1 tvg-id=" HBO Family" tvg-logo="https://imgur.com/BdswAey"
-http://45.4.85.214:58001/play/a04x
-#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="https://i.imgur.com/ux0YZse.png"
-http://45.4.85.214:58001/play/a04w
-#EXTINF:-1 tvg-id=" MTV Hits" tvg-logo="https://i.ibb.co/Zh2yMf5/mtv-hits.jpg"
-http://45.4.85.214:58001/play/a00z
-#EXTINF:-1 tvg-id="MULTICINEMA" tvg-logo="https://imgur.com/zvS17dF"
-http://45.4.85.214:58001/play/a04q
-#EXTINF:-1 tvg-id="Multipremier" tvg-logo="http://justv.xyz:25461/images/363634ac453c5228f143e38883076f50.jpg"
-http://45.4.85.214:58001/play/a03n
-#EXTINF:-1 tvg-id="SONY" tvg-logo="https://imgur.com/j3FtnzQ"
-http://45.4.85.214:58001/play/a02r
-#EXTINF:-1 tvg-id=" SPACE" tvg-logo="https://i.imgur.com/nNLcGDu.png"
-http://45.4.85.214:58001/play/a041
-#EXTINF:-1 tvg-id="STAR CHANNE" tvg-logo="https://i.imgur.com/IRtjbA9.png"
-http://45.4.85.214:58001/play/a02p
-#EXTINF:-1 tvg-id=" Universal" tvg-logo="https://i.imgur.com/s5Ws5Tn.png"
-http://45.4.85.214:58001/play/a03l
-#EXTINF:-1 tvg-id="WARNER HD" tvg-logo="https://imgur.com/Vm0UL4I"
-http://45.4.85.214:58001/play/a02q
 #EXTINF:-1 tvg-id=" AZ corazon" tvg-logo="https://i.ibb.co/rsTGj4N/co-az-corazon-m.png"
 http://200.59.188.3:8000/play/a0ek
 #EXTINF:-1 tvg-id=" Cartoon Network HD" tvg-logo="https://i.imgur.com/cBOtP8a.png"
 http://200.59.188.3:8000/play/a022
 #EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://i.imgur.com/m4ubL69.png"
 http://200.59.188.3:8000/play/a05j
-#EXTINF:-1 tvg-id=" ESPN EXTRA HD" tvg-logo="https://pbs.twimg.com/media/Eo6jO57XYAMJ0k_.jpg"
-http://200.59.188.3:8000/play/a01z
 #EXTINF:-1 tvg-id=" ESPN Premium" tvg-logo="https://i.imgur.com/40SHixE.png"
 http://200.59.188.3:8000/play/a0gh
-#EXTINF:-1 tvg-id="MTV LIVE HD" tvg-logo="https://i.imgur.com/5MA3Ljx.png"
-http://200.59.188.3:8000/play/a01i
-#EXTINF:-1 tvg-id="MUSIC TV" tvg-logo="https://www.newslinereport.com/online/nota_c-music-tv-llega-a-latinoamrica.jpg"
-http://200.59.188.3:8000/play/a08h
 #EXTINF:-1 tvg-id="Novelisima" tvg-logo="https://imgur.com/cTWt9Ud"
 http://200.59.188.3:8000/play/a0ef
 #EXTINF:-1 tvg-id="Pasiones HD" tvg-logo="https://imgur.com/PdgJAPI"
@@ -129,12 +86,9 @@ http://200.59.188.3:8000/play/a00j
 http://200.59.188.3:8000/play/a010
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://imgur.com/KJ2gS8r"
 http://200.59.188.3:8000/play/a01n
-#EXTINF:-1 tvg-id="Telenovelas" tvg-logo="https://imgur.com/fsl4IQC"
-http://200.59.188.3:8000/play/a0fj
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HD" tvg-logo="https://imgur.com/s5Ws5Tn"
-http://200.59.188.3:8000/play/a01h
 
-MIERCOLES 30
+
+
 
 
 
