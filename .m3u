@@ -4,14 +4,8 @@
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="HBO 2 MX" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_256.d920675.png"
 http://200.59.188.3:8000/play/a027
-#EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png"
-http://200.59.188.3:8000/play/a00f
 #EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png"
 http://200.59.188.3:8000/play/a01y
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png"
-http://200.59.188.3:8000/play/a00i
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg"
-http://200.59.188.3:8000/play/a016
 #EXTINF:-1 tvg-id=" Discovery Turbo" tvg-logo="https://appnew.megainfoapp.com/files/1/DiscoveryTurbo.png"
 http://200.59.188.3:8000/play/a045
 #EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://universalplus.com/assets/logo.jpg"
@@ -20,18 +14,12 @@ http://gzytv.vip:8880/654329/rjgAbmEB7c/827
 http://200.59.188.3:8000/play/a00h
 #EXTINF:-1 tvg-id="H2" tvg-logo="https://www.pngitem.com/pimgs/m/530-5308413_history-channel-2-logo-hd-png-download.png"
 http://200.59.188.3:8000/play/a033
-#EXTINF:-1 tvg-id="History Channel HD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Logo-2008.png"
-http://200.59.188.3:8000/play/a00e
-#EXTINF:-1 tvg-id="Paramount" tvg-logo="https://www.paramount.com/themes/custom/viacom/viacom.png"
-http://200.59.188.3:8000/play/a023
 #EXTINF:-1 tvg-id="CINEMAX MX" tvg-logo="https://banner2.cleanpng.com/20180808/skv/097e607b3fc6cb6c49b6c38b8af8c657.webp"
 http://200.59.188.3:8000/play/a03s
 #EXTINF:-1 tvg-id=" Claro Cinema" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png"
 http://200.59.188.3:8000/play/a043
 #EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://i.pinimg.com/474x/f6/f7/61/f6f7615950039eda8970133770c716b6.jpg"
 http://200.59.188.3:8000/play/a02d
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg"
-http://200.59.188.3:8000/play/a017
 #EXTINF:-1 tvg-id=" E! HD" tvg-logo="https://cdn.worldvectorlogo.com/logos/e-tv-1.svg"
 http://200.59.188.3:8000/play/a02h
 #EXTINF:-1 tvg-id=" Nat Geo HD" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=681&h=383&crop=1"
@@ -68,16 +56,12 @@ http://200.59.188.3:8000/play/a05j
 http://200.59.188.3:8000/play/a0gh
 #EXTINF:-1 tvg-id="Novelisima" tvg-logo="https://imgur.com/cTWt9Ud"
 http://200.59.188.3:8000/play/a0ef
-#EXTINF:-1 tvg-id="Pasiones HD" tvg-logo="https://imgur.com/PdgJAPI"
-http://200.59.188.3:8000/play/a00x
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://imgur.com/1yDPxZb"
 http://200.59.188.3:8000/play/a07q
 #EXTINF:-1 tvg-id="SONY Comp" tvg-logo="https://imgur.com/jbbhIsU"
 http://200.59.188.3:8000/play/a0ca
 #EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-logo="https://i.imgur.com/IRtjbA9.png"
 http://200.59.188.3:8000/play/a02v
-#EXTINF:-1 tvg-id="Sony HD" tvg-logo="https://imgur.com/1tmRd7C"
-http://200.59.188.3:8000/play/a00g
 #EXTINF:-1 tvg-id="Sony Novelas" tvg-logo="https://i.imgur.com/ClVYVYp.png"
 http://200.59.188.3:8000/play/a0aa
 #EXTINF:-1 tvg-id="Space HD" tvg-logo="https://imgur.com/nNLcGDu"
@@ -86,6 +70,8 @@ http://200.59.188.3:8000/play/a00j
 http://200.59.188.3:8000/play/a010
 #EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://imgur.com/KJ2gS8r"
 http://200.59.188.3:8000/play/a01n
+
+ok
 
 
 
