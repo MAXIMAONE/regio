@@ -46,7 +46,6 @@ http://200.59.188.3:8000/play/a03a
 http://200.59.188.3:8000/play/a0ek
 #EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://i.imgur.com/m4ubL69.png"
 http://200.59.188.3:8000/play/a05j
-#EXTINF:-1 tvg-id=" ESPN Premium" tvg-logo="https://i.imgur.com/40SHixE.png"
 #EXTINF:-1 tvg-id="Novelisima" tvg-logo="https://imgur.com/cTWt9Ud"
 http://200.59.188.3:8000/play/a0ef
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://imgur.com/1yDPxZb"
@@ -58,6 +57,8 @@ http://200.59.188.3:8000/play/a00j
 #EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://imgur.com/EMNCVfF"
 http://200.59.188.3:8000/play/a010
 
+
+dos
 
 
 
