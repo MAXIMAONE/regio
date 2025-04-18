@@ -1,69 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="REDBULL" tvg-logo="https://static.eldiario.es/clip/621f0fec-a1e6-4029-b231-1d184a823583_16-9-aspect-ratio_default_0.jpg"
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id=" A&E" tvg-logo="https://seeklogo.com/images/A/ae-logo-E634AC35E3-seeklogo.com.png?v=637"
+http://190.60.38.114:1010/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png"
+http://190.60.38.114:1010/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/94/673/png-clipart-animal-planet-television-channel-animal-logo-television-text.png"
+http://190.60.38.114:1010/play/a06t/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://vod.roams.es/images/post/es_ES_vod/canales-axn.svg"
+http://190.60.38.114:1010/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoNB.jpg"
+http://190.60.38.114:1010/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="CITY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcDYgzBqLsAEPlc-dbg8FEvOLhRWJfPIUeQ&s"
+http://190.60.38.114:1010/play/a09n/index.m3u8
+#EXTINF:-1 tvg-id="DE PELICULA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd8bPSDwOox2c9lrK_AQXWcitr5ZN3ZeJrqg&s"
+http://190.60.38.114:1010/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://i.pinimg.com/originals/dc/47/f9/dc47f97388f9d53558c127321a6caf3a.jpg"
+http://190.60.38.114:1010/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2 MX" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_256.d920675.png"
 http://200.59.188.3:8000/play/a027
-#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png"
-http://200.59.188.3:8000/play/a01y
-#EXTINF:-1 tvg-id=" Discovery Turbo" tvg-logo="https://appnew.megainfoapp.com/files/1/DiscoveryTurbo.png"
-http://200.59.188.3:8000/play/a045
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png"
-http://200.59.188.3:8000/play/a00h
-#EXTINF:-1 tvg-id="CINEMAX MX" tvg-logo="https://banner2.cleanpng.com/20180808/skv/097e607b3fc6cb6c49b6c38b8af8c657.webp"
-http://200.59.188.3:8000/play/a03s
-#EXTINF:-1 tvg-id=" Claro Cinema" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png"
-http://200.59.188.3:8000/play/a043
-#EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://i.pinimg.com/474x/f6/f7/61/f6f7615950039eda8970133770c716b6.jpg"
-http://200.59.188.3:8000/play/a02d
-#EXTINF:-1 tvg-id=" E! HD" tvg-logo="https://cdn.worldvectorlogo.com/logos/e-tv-1.svg"
-http://200.59.188.3:8000/play/a02h
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://television.com.ar/wp-content/uploads/2024/03/history.jpg"
+http://190.60.38.114:1010/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-logo="https://i.ytimg.com/vi/uvuBAVCoDzI/hqdefault.jpg?v=623b670a"
+http://190.60.38.114:1010/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id=" Nat Geo HD" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=681&h=383&crop=1"
-http://200.59.188.3:8000/play/a01v
-#EXTINF:-1 tvg-id=" Studio Universal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s"
-http://177.93.46.163:8000/play/a00r
-#EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.pinimg.com/736x/70/78/5a/70785ae2994bc9bec676c940357d9ff9.jpg"
-http://177.93.46.163:8000/play/a017
-#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-7163B57025-seeklogo.com.png"
-http://177.93.46.163:8000/play/a01c
-#EXTINF:-1 tvg-id="ESPN 2 USA" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png"
-http://200.59.188.3:8000/play/a013
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://pbs.twimg.com/media/E0UcMpvXsAQkFjd.png"
-http://200.59.188.3:8000/play/a011
-#EXTINF:-1 tvg-id=" Nickelodeon" tvg-logo="https://roastbrief.com.mx/wp-content/uploads/2023/07/NickSplat2023.webp"
-http://200.59.188.3:8000/play/a056
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://i.pinimg.com/originals/42/dc/6d/42dc6df904ee807fcbd9e060c1bf28ce.png"
-http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="BANDAMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png"
-http://181.78.105.146:2000/play/a08h/index.m3u8
-#EXTINF:-1 tvg-id=" Bjgtjme" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cf4aa810-703f-4746-8478-f3022dca18bd-profile_image-300x300.png"
-http://200.59.188.3:8000/play/a0c1
-#EXTINF:-1 tvg-id="CNN Espano" tvg-logo="https://cdn.worldvectorlogo.com/logos/cnn-en-espanol.svg"
-http://200.59.188.3:8000/play/a06d
-#EXTINF:-1 tvg-id="Canal RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/2560px-RCN_Televisi%C3%B3n_logo.svg.png"
-http://200.59.188.3:8000/play/a03a
-#EXTINF:-1 tvg-id=" AZ corazon" tvg-logo="https://i.ibb.co/rsTGj4N/co-az-corazon-m.png"
-http://200.59.188.3:8000/play/a0ek
-#EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://i.imgur.com/m4ubL69.png"
-http://200.59.188.3:8000/play/a05j
-#EXTINF:-1 tvg-id="Novelisima" tvg-logo="https://imgur.com/cTWt9Ud"
-http://200.59.188.3:8000/play/a0ef
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://imgur.com/1yDPxZb"
-http://200.59.188.3:8000/play/a07q
-#EXTINF:-1 tvg-id="SONY Comp" tvg-logo="https://imgur.com/jbbhIsU"
-http://200.59.188.3:8000/play/a0ca
-#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://imgur.com/nNLcGDu"
-http://200.59.188.3:8000/play/a00j
-#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://imgur.com/EMNCVfF"
-http://200.59.188.3:8000/play/a010
-
-dosss
-
-
-
-
-
-
-
-
-
+http://190.60.38.114:1010/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="CINEMAX MX" tvg-logo="https://banner2.cleanpng.com/20180808/skv/097e607b3fc6cb6c49b6c38b8af8c657.webp"
+http://177.93.46.163:8000/play/a020
+#EXTINF:-1 tvg-id=" Discovery Turbo" tvg-logo="https://appnew.megainfoapp.com/files/1/DiscoveryTurbo.png"
+http://190.60.38.114:1010/play/a09m/index.m3u8
+#EXTINF:-1 tvg-id="STAR CHANEL" tvg-logo="https://i.blogs.es/9776f6/plantilla-xataka-15-/1366_2000.jpeg"
+http://177.93.46.163:8000/play/a00b
+#EXTINF:-1 tvg-id=" SPACE" tvg-logo="https://i.pinimg.com/736x/3c/c3/f3/3cc3f3c0622d2d0f516dac097ae0eb0f.jpg"
+http://177.93.46.163:8000/play/a023
+#EXTINF:-1 tvg-id=" SyFy 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Syfy_HD.svg/revision/latest?cb=20160809202949"
+http://177.93.46.163:8000/play/a00i
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://television.com.ar/wp-content/uploads/2024/05/TCMLogo.jpg"
+http://177.93.46.163:8000/play/a00c
