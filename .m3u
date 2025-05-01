@@ -6,8 +6,6 @@ http://190.60.38.114:1010/play/a085/index.m3u8
 http://190.60.38.114:1010/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="DE PELICULA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd8bPSDwOox2c9lrK_AQXWcitr5ZN3ZeJrqg&s"
 http://190.60.38.114:1010/play/a08f/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://i.pinimg.com/originals/dc/47/f9/dc47f97388f9d53558c127321a6caf3a.jpg"
-http://190.60.38.114:1010/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2 MX" tvg-logo="https://laguia.tv/_nuxt/img/HBO2_256.d920675.png"
 http://200.59.188.3:8000/play/a027
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://television.com.ar/wp-content/uploads/2024/03/history.jpg"
@@ -26,3 +24,66 @@ http://177.93.46.163:8000/play/a023
 http://177.93.46.163:8000/play/a00i
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://television.com.ar/wp-content/uploads/2024/05/TCMLogo.jpg"
 http://177.93.46.163:8000/play/a00c
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=""
+#EXTINF:-1 tvg-id="" tvg-logo=""
+#EXTINF:-1 tvg-id="" tvg-logo=""
+
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png"
+http://200.59.188.3:8000/play/a00h
+
+#EXTINF:-1 tvg-id=" Claro Cinema" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png"
+http://200.59.188.3:8000/play/a043
+#EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://i.pinimg.com/474x/f6/f7/61/f6f7615950039eda8970133770c716b6.jpg"
+http://200.59.188.3:8000/play/a02d
+#EXTINF:-1 tvg-id=" E! HD" tvg-logo="https://cdn.worldvectorlogo.com/logos/e-tv-1.svg"
+http://200.59.188.3:8000/play/a02h
+
+#EXTINF:-1 tvg-id=" Studio Universal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s"
+http://177.93.46.163:8000/play/a00r
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.pinimg.com/736x/70/78/5a/70785ae2994bc9bec676c940357d9ff9.jpg"
+http://177.93.46.163:8000/play/a017
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-7163B57025-seeklogo.com.png"
+http://177.93.46.163:8000/play/a01c
+#EXTINF:-1 tvg-id="ESPN 2 USA" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png"
+http://200.59.188.3:8000/play/a013
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://pbs.twimg.com/media/E0UcMpvXsAQkFjd.png"
+http://200.59.188.3:8000/play/a011
+#EXTINF:-1 tvg-id=" Nickelodeon" tvg-logo="https://roastbrief.com.mx/wp-content/uploads/2023/07/NickSplat2023.webp"
+http://200.59.188.3:8000/play/a056
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://i.pinimg.com/originals/42/dc/6d/42dc6df904ee807fcbd9e060c1bf28ce.png"
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="BANDAMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png"
+http://181.78.105.146:2000/play/a08h/index.m3u8
+#EXTINF:-1 tvg-id=" Bjgtjme" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cf4aa810-703f-4746-8478-f3022dca18bd-profile_image-300x300.png"
+http://200.59.188.3:8000/play/a0c1
+#EXTINF:-1 tvg-id="CNN Espano" tvg-logo="https://cdn.worldvectorlogo.com/logos/cnn-en-espanol.svg"
+http://200.59.188.3:8000/play/a06d
+#EXTINF:-1 tvg-id="Canal RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/2560px-RCN_Televisi%C3%B3n_logo.svg.png"
+http://200.59.188.3:8000/play/a03a
+#EXTINF:-1 tvg-id=" AZ corazon" tvg-logo="https://i.ibb.co/rsTGj4N/co-az-corazon-m.png"
+http://200.59.188.3:8000/play/a0ek
+#EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://i.imgur.com/m4ubL69.png"
+http://200.59.188.3:8000/play/a05j
+#EXTINF:-1 tvg-id="Novelisima" tvg-logo="https://imgur.com/cTWt9Ud"
+http://200.59.188.3:8000/play/a0ef
+#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://imgur.com/1yDPxZb"
+http://200.59.188.3:8000/play/a07q
+#EXTINF:-1 tvg-id="SONY Comp" tvg-logo="https://imgur.com/jbbhIsU"
+http://200.59.188.3:8000/play/a0ca
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://imgur.com/nNLcGDu"
+http://200.59.188.3:8000/play/a00j
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://imgur.com/EMNCVfF"
+http://200.59.188.3:8000/play/a010
+
+01 05 25
