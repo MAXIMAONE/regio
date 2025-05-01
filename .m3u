@@ -2,12 +2,6 @@
 
 #EXTINF:-1 tvg-id=" A&E" tvg-logo="https://seeklogo.com/images/A/ae-logo-E634AC35E3-seeklogo.com.png?v=637"
 http://190.60.38.114:1010/play/a085/index.m3u8
-#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png"
-http://190.60.38.114:1010/play/a047/index.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/94/673/png-clipart-animal-planet-television-channel-animal-logo-television-text.png"
-http://190.60.38.114:1010/play/a06t/index.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://vod.roams.es/images/post/es_ES_vod/canales-axn.svg"
-http://190.60.38.114:1010/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoNB.jpg"
 http://190.60.38.114:1010/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="CITY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcDYgzBqLsAEPlc-dbg8FEvOLhRWJfPIUeQ&s"
