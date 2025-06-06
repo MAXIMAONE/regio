@@ -48,6 +48,17 @@ http://200.59.188.3:8000/play/a07q
 http://200.59.188.3:8000/play/a010
 #EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoNB.jpg"
 http://177.93.46.163:8000/play/a007
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://images.tvtoday.de/files/images/201610/1/tv-news-discovery-channel-logo,162567_aufmacher_640.jpg"
+http://45.228.234.167:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="Discovery ID HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es"
+http://45.228.234.167:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg"
+http://45.228.234.167:8000/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYw-epO6cAAI00EhIH6hGnEXpXlVKiMs2yYA&s"
+http://45.228.234.167:8000/play/a0h2/index.m3u8
+#EXTINF:-1 tvg-id="MULTICINEMA" tvg-logo="https://imgur.com/zvS17dF"
+http://45.228.234.167:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id=" Multipremier" tvg-logo="https://laguia.tv/_nuxt/img/Multipremier_256.1534eb5.png"
+http://45.228.234.167:8000/play/a046/index.m3u8
 
-
-15 05 ..
+05 06
