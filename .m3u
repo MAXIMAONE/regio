@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=" A&E" tvg-logo="https://seeklogo.com/images/A/ae-logo-E634AC35E3-seeklogo.com.png?v=637" group-title="CANALES-ENTRETENIMIENTO"
+#EXTINF:-1 tvg-id=" A&E" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo.jpg" 
 http://181.188.234.21:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="CITY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcDYgzBqLsAEPlc-dbg8FEvOLhRWJfPIUeQ&s"
 http://177.93.46.163:8000/play/a01w
@@ -14,7 +14,7 @@ http://177.93.46.163:8000/play/a02c
 http://177.93.46.163:8000/play/a00b
 #EXTINF:-1 tvg-id=" SPACE" tvg-logo="https://i.pinimg.com/736x/3c/c3/f3/3cc3f3c0622d2d0f516dac097ae0eb0f.jpg"
 http://177.93.46.163:8000/play/a023
-#EXTINF:-1 tvg-id=" SyFy 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Syfy_HD.svg/revision/latest?cb=20160809202949"
+#EXTINF:-1 tvg-id=" SyFy 2" tvg-logo="https://static.wikia.nocookie.net/csn/images/c/c9/Syfy.png/revision/latest?cb=20230715134806"
 http://177.93.46.163:8000/play/a00i
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://television.com.ar/wp-content/uploads/2024/05/TCMLogo.jpg"
 http://177.93.46.163:8000/play/a00c
@@ -34,9 +34,9 @@ http://177.93.46.163:8000/play/a022
 http://177.93.46.163:8000/play/a00l
 #EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://i.ibb.co/SRQxnY4/images.png"
 http://177.93.46.163:8000/play/a019
-#EXTINF:-1 tvg-id="RCN" tvg-logo="https://imgur.com/1yDPxZb"
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://www.deezer.com/mx/artist/87204662"
 http://177.93.46.163:8000/play/a01o
-#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://imgur.com/EMNCVfF"
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg"
 http://177.93.46.163:8000/play/a00e
 #EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoNB.jpg"
 http://177.93.46.163:8000/play/a007
@@ -46,7 +46,7 @@ http://177.93.46.163:8000/play/a00z
 http://177.93.46.163:8000/play/a01f
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg"
 http://177.93.46.163:8000/play/a00s
-#EXTINF:-1 tvg-id=" ESPN 5HD" tvg-logo="https://imgur.com/qkjQ40e"
+#EXTINF:-1 tvg-id=" ESPN 5" tvg-logo="https://images.seeklogo.com/logo-png/52/3/espn-5-logo-png_seeklogo-522715.png"
 http://177.93.46.163:8000/play/a01j
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Símbolo.jpg"
 http://177.93.46.163:8000/play/a015
@@ -62,27 +62,9 @@ http://177.93.46.163:8000/play/a006
 http://177.93.46.163:8000/play/a00a
 #EXTINF:-1 tvg-id="NAT GEO" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg"
 http://177.93.46.163:8000/play/a005
-#EXTINF:-1 tvg-id="SONY" tvg-logo="https://imgur.com/j3FtnzQ"
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg"
 http://177.93.46.163:8000/play/a021
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://www.prensario.net/Multimedios/imgs/56678_750.jpg"
 http://177.93.46.163:8000/play/a01g
 #EXTINF:-1 tvg-id="WARNER®" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest?cb=20191207183909"
 http://177.93.46.163:8000/play/a011
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo=""
-#EXTINF:-1 tvg-id="" tvg-logo=""
-#EXTINF:-1 tvg-id="" tvg-logo=""
-
-
-
-
-
-
-
-
-
