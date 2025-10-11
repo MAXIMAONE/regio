@@ -1,8 +1,11 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id=" A&E" tvg-logo="https://seeklogo.com/images/A/ae-logo-E634AC35E3-seeklogo.com.png?v=637"
+http://181.188.234.21:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="CITY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcDYgzBqLsAEPlc-dbg8FEvOLhRWJfPIUeQ&s"
 http://177.93.46.163:8000/play/a01w
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://television.com.ar/wp-content/uploads/2024/03/history.jpg"
+http://181.188.234.21:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX MX" tvg-logo="https://banner2.cleanpng.com/20180808/skv/097e607b3fc6cb6c49b6c38b8af8c657.webp"
 http://177.93.46.163:8000/play/a020
 #EXTINF:-1 tvg-id=" Discovery Turbo" tvg-logo="https://appnew.megainfoapp.com/files/1/DiscoveryTurbo.png"
@@ -15,58 +18,18 @@ http://177.93.46.163:8000/play/a023
 http://177.93.46.163:8000/play/a00i
 #EXTINF:-1 tvg-id="TCM" tvg-logo="https://television.com.ar/wp-content/uploads/2024/05/TCMLogo.jpg"
 http://177.93.46.163:8000/play/a00c
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png"
-http://200.59.188.3:8000/play/a00h
-#EXTINF:-1 tvg-id=" Claro Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdgx-zQ6TU1HObenpqvS-ahxSdaZM2HJ16Q&s"
-http://200.59.188.3:8000/play/a043
 #EXTINF:-1 tvg-id=" Studio Universal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s"
 http://177.93.46.163:8000/play/a00r
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.pinimg.com/736x/70/78/5a/70785ae2994bc9bec676c940357d9ff9.jpg"
 http://177.93.46.163:8000/play/a017
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-7163B57025-seeklogo.com.png"
 http://177.93.46.163:8000/play/a01c
-#EXTINF:-1 tvg-id=" Nickelodeon" tvg-logo="https://roastbrief.com.mx/wp-content/uploads/2023/07/NickSplat2023.webp"
-http://200.59.188.3:8000/play/a056
-#EXTINF:-1 tvg-id=" Bjgtjme" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cf4aa810-703f-4746-8478-f3022dca18bd-profile_image-300x300.png"
-http://200.59.188.3:8000/play/a0c1
-#EXTINF:-1 tvg-id="CNN Espano" tvg-logo="https://cdn.worldvectorlogo.com/logos/cnn-en-espanol.svg"
-http://181.188.234.21:8000/play/a05p/index.m3u8
-#EXTINF:-1 tvg-id="Canal RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisi%C3%B3n_logo.svg/2560px-RCN_Televisi%C3%B3n_logo.svg.png"
-http://200.59.188.3:8000/play/a03a
 #EXTINF:-1 tvg-id=" AZ corazon" tvg-logo="https://i.ibb.co/rsTGj4N/co-az-corazon-m.png"
 http://200.59.188.3:8000/play/a0ek
-#EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://i.imgur.com/m4ubL69.png"
-http://200.59.188.3:8000/play/a05j
 #EXTINF:-1 tvg-id="Novelisima" tvg-logo="https://imgur.com/cTWt9Ud"
 http://200.59.188.3:8000/play/a0ef
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://imgur.com/1yDPxZb"
-http://200.59.188.3:8000/play/a07q
-#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://imgur.com/EMNCVfF"
-http://200.59.188.3:8000/play/a010
 #EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoNB.jpg"
 http://177.93.46.163:8000/play/a007
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="https://images.tvtoday.de/files/images/201610/1/tv-news-discovery-channel-logo,162567_aufmacher_640.jpg"
-http://45.228.234.167:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="Discovery ID HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es"
-http://45.228.234.167:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg"
-http://45.228.234.167:8000/play/a0h0/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYw-epO6cAAI00EhIH6hGnEXpXlVKiMs2yYA&s"
-http://45.228.234.167:8000/play/a0h2/index.m3u8
-#EXTINF:-1 tvg-id="MULTICINEMA" tvg-logo="https://imgur.com/zvS17dF"
-http://45.228.234.167:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id=" Multipremier" tvg-logo="https://laguia.tv/_nuxt/img/Multipremier_256.1534eb5.png"
-http://45.228.234.167:8000/play/a046/index.m3u8
-
-04 10 25
 
 
-
-
-
-
-
-
-
-
-
+11/10..
