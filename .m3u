@@ -1,11 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=" A&E" tvg-logo="https://seeklogo.com/images/A/ae-logo-E634AC35E3-seeklogo.com.png?v=637"
-http://181.188.234.21:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="CITY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcDYgzBqLsAEPlc-dbg8FEvOLhRWJfPIUeQ&s"
 http://177.93.46.163:8000/play/a01w
-#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://television.com.ar/wp-content/uploads/2024/03/history.jpg"
-http://181.188.234.21:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX MX" tvg-logo="https://banner2.cleanpng.com/20180808/skv/097e607b3fc6cb6c49b6c38b8af8c657.webp"
 http://177.93.46.163:8000/play/a020
 #EXTINF:-1 tvg-id=" Discovery Turbo" tvg-logo="https://appnew.megainfoapp.com/files/1/DiscoveryTurbo.png"
