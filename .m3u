@@ -1,34 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="CITY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcDYgzBqLsAEPlc-dbg8FEvOLhRWJfPIUeQ&s"
-http://177.93.46.163:8000/play/a01w
-#EXTINF:-1 tvg-id="CINEMAX MX" tvg-logo="https://banner2.cleanpng.com/20180808/skv/097e607b3fc6cb6c49b6c38b8af8c657.webp"
-http://177.93.46.163:8000/play/a020
-#EXTINF:-1 tvg-id=" Discovery Turbo" tvg-logo="https://appnew.megainfoapp.com/files/1/DiscoveryTurbo.png"
-http://177.93.46.163:8000/play/a02c
-#EXTINF:-1 tvg-id="STAR CHANEL" tvg-logo="https://i.blogs.es/9776f6/plantilla-xataka-15-/1366_2000.jpeg"
-http://177.93.46.163:8000/play/a00b
-#EXTINF:-1 tvg-id=" SPACE" tvg-logo="https://i.pinimg.com/736x/3c/c3/f3/3cc3f3c0622d2d0f516dac097ae0eb0f.jpg"
-http://177.93.46.163:8000/play/a023
-#EXTINF:-1 tvg-id=" SyFy 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Syfy_HD.svg/revision/latest?cb=20160809202949"
-http://177.93.46.163:8000/play/a00i
-#EXTINF:-1 tvg-id="TCM" tvg-logo="https://television.com.ar/wp-content/uploads/2024/05/TCMLogo.jpg"
-http://177.93.46.163:8000/play/a00c
-#EXTINF:-1 tvg-id=" Studio Universal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSTJKjGOaFOt7QD7vgRj2QRd0SNbRGjVM0Q&s"
-http://177.93.46.163:8000/play/a00r
-#EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.pinimg.com/736x/70/78/5a/70785ae2994bc9bec676c940357d9ff9.jpg"
-http://177.93.46.163:8000/play/a017
-#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-7163B57025-seeklogo.com.png"
-http://177.93.46.163:8000/play/a01c
-#EXTINF:-1 tvg-id=" AZ corazon" tvg-logo="https://i.ibb.co/rsTGj4N/co-az-corazon-m.png"
-http://200.59.188.3:8000/play/a0ek
-#EXTINF:-1 tvg-id="Novelisima" tvg-logo="https://imgur.com/cTWt9Ud"
-http://200.59.188.3:8000/play/a0ef
-#EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://farras.live/wp-content/uploads/2018/09/CCLogoNB.jpg"
-
-
-jhjhjhjk
-http://177.93.46.163:8000/play/a007
-
-
-11/10..
+#EXTINF:-1 tvg-id="RADIO LA REINA MX" tvg-logo="https://i.ibb.co/6RGc23wf/la-reina.png"
+https://stream.zeno.fm/z5ud5axf29htv.m3u
